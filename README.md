@@ -15,3 +15,5 @@
   * [Exercícios](./exercicios01.md)
   * [Modelo Pizzaria versão 2 (formato BrModelo)](./pizzariav2.brM3) [formato (formato imagem)](./pizzariav2.png)
   * [Modelo Festa Infantil versão 1 (formato BrModelo)](./festas-v1.brM3)
+* Aula05 (21/03) - Modelagem Lógica
+  * [MER x DER](./MERxDER-v2.pdf)
