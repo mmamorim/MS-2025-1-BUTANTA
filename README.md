@@ -17,3 +17,4 @@
   * [Modelo Festa Infantil versão 1 (formato BrModelo)](./festas-v1.brM3)
 * Aula05 (21/03) - Modelagem Lógica
   * [MER x DER](./MERxDER-v2.pdf)
+* Tech Week IX [link](https://animatechweek.com.br/)
