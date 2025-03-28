@@ -18,3 +18,5 @@
 * Aula05 (21/03) - Modelagem Lógica
   * [MER x DER](./MERxDER-v2.pdf)
 * Tech Week IX [link](https://animatechweek.com.br/)
+* Aula06 (28/03) - Modelagem Lógica (Exercício)
+  * [Exercício SUPER CINEMA](./ExercicioFilmes.md)
