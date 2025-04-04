@@ -20,3 +20,5 @@
 * Tech Week IX [link](https://animatechweek.com.br/)
 * Aula06 (28/03) - Modelagem Lógica (Exercício)
   * [Exercício SUPER CINEMA](./ExercicioFilmes.md)
+* Aula07 (04/04) - Modelagem Lógica (Exercício)
+  * [Exercício NAS ALTURAS](./ExercicioVoos.md)
