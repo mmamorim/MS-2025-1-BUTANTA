@@ -6,21 +6,21 @@
 
 * Aula01 (21/02) - Apresentação Super legal da UC
 * Aula02 (28/02) - Introdução BD
-  * [slide01](./Aula02.pdf) [slide02](./09_intro_bd.pdf)  
+  * [slide01](./Aula02.pdf) [slide02](./arquivos/09_intro_bd.pdf)  
 * Aula03 (07/03) - Modelagem Conceitual
-  * [slides](./Modelagem_conceitual.pdf)
-  * [intro BRmodelo](./brmodelo.pdf) [download](http://www.sis4.com/brModelo/download.html)
-  * [Modelo Pizzaria versão 1](./pizzaria.brM3)
+  * [slides](./arquivos/Modelagem_conceitual.pdf)
+  * [intro BRmodelo](./arquivos/brmodelo.pdf) [download](http://www.sis4.com/brModelo/download.html)
+  * [Modelo Pizzaria versão 1](./arquivos/pizzaria.brM3)
 * Aula04 (14/03) - Exercícios - Modelagem Conceitual
-  * [Exercícios](./exercicios01.md)
-  * [Modelo Pizzaria versão 2 (formato BrModelo)](./pizzariav2.brM3) [formato (formato imagem)](./pizzariav2.png)
-  * [Modelo Festa Infantil versão 1 (formato BrModelo)](./festas-v1.brM3)
+  * [Exercícios](./arquivos/exercicios01.md)
+  * [Modelo Pizzaria versão 2 (formato BrModelo)](./arquivos/pizzariav2.brM3) [formato (formato imagem)](./pizzariav2.png)
+  * [Modelo Festa Infantil versão 1 (formato BrModelo)](./arquivos/festas-v1.brM3)
 * Aula05 (21/03) - Modelagem Lógica
-  * [MER x DER](./MERxDER-v2.pdf)
+  * [MER x DER](./arquivos/MERxDER-v2.pdf)
 * Tech Week IX [link](https://animatechweek.com.br/)
 * Aula06 (28/03) - Modelagem Lógica (Exercício)
-  * [Exercício SUPER CINEMA](./ExercicioFilmes.md)
-  * DER - Super Cinema (Contribuição do Igor Hiroshi) [SuperCinema.png](./SuperCinema.png)
+  * [Exercício SUPER CINEMA](./arquivos/ExercicioFilmes.md)
+  * DER - Super Cinema (Contribuição do Igor Hiroshi) [SuperCinema.png](./arquivos/SuperCinema.png)
 * Aula07 (04/04) - Modelagem Lógica (Exercício)
-  * [Exercício NAS ALTURAS](./ExercicioVoos.md)
-  * DER - Nas Alturas (Contribuição da Andressa Medeiros) [NasAlturas.png](./NasAlturas.png)
+  * [Exercício NAS ALTURAS](./arquivos/ExercicioVoos.md)
+  * DER - Nas Alturas (Contribuição da Andressa Medeiros) [NasAlturas.png](./arquivos/NasAlturas.png)
