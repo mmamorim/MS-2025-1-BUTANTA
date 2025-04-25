@@ -28,3 +28,7 @@
   * Banco de dados SQLite
   * [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.17/sqlitestudio-3.4.17-windows-x64.zip)
   * [ModeloFisico](./arquivos/modeloFisicoCinema.sql)
+* Aula09 (25/04) - SQL [Guia SQL](./guiaSQL.md)
+  * CREATE TABLE
+  * INSERT
+  * SELECT
