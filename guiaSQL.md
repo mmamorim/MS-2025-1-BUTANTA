@@ -22,8 +22,8 @@ SELECT Coluna1, Coluna2, ..., FROM tabela
 SELECT DISTINCT Coluna1 * FROM tabela 
 --exibe valores únicos de determinada coluna
 
-SELECT TOP(N) * FROM tabela
---exibe os primeiros N registros
+SELECT * FROM tabela LIMIT 10
+--exibe os primeiros 10 registros
 
 SELECT Coluna1 AS 'Novo Nome' FROM tabela
 --renomeia as colunas consultadas
