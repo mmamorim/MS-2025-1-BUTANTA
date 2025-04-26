@@ -32,3 +32,4 @@
   * CREATE TABLE
   * INSERT
   * SELECT
+  * Banco de Dados criado em Aula [Aula09.db](./Aula09.db)
