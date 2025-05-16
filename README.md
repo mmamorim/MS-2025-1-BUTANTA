@@ -31,3 +31,8 @@
 * Aula09 (25/04) - SQL [Guia SQL](./guiaSQL.md)
   * CREATE TABLE, INSERT, SELECT
   * Banco de Dados criado em Aula [Aula09.db](./Aula09.db)
+* **(08/05) AVALIAÇÃO A1** 
+* Aula10 (16/05) - SQL [Guia SQL](./guiaSQL.md)
+  * SELECT
+  * Banco de Dados Aula 10 [Aula10.db](./Aula10.db)
+  * [Queries da aula](./queriesAula10.sql)
