@@ -34,5 +34,5 @@
 * **(08/05) AVALIAÇÃO A1** 
 * Aula10 (16/05) - SQL [Guia SQL](./guiaSQL.md)
   * SELECT
-  * Banco de Dados Aula 10 [Aula10.db](./Aula10.db)
+  * Banco de Dados Aula 10 [aula10.db](./aula10.db)
   * [Queries da aula](./queriesAula10.sql)
