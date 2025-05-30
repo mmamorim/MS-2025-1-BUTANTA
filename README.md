@@ -36,3 +36,5 @@
   * SELECT
   * Banco de Dados Aula 10 [aula10.db](./aula10.db)
   * [Queries da aula](./queriesAula10.sql)
+* **DESENVOLVIMENTO DO PROJETO A3** 30/05, 06/06, 13/06
+  * [Enunciado do projeto](./projetoA3.md)
