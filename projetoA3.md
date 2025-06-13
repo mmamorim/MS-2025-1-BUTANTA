@@ -83,6 +83,11 @@ Deverá ser entregue um documento contendo a solução do exercício.
 
 **Data de entrega**: 13/06
 
-**Forma de envio**: (A definir)
+**Forma de envio**: [Link p/ formulário de ENTREGA](https://forms.gle/4LPxMWSMfupBhMSVA)
 
+Apenas um integrante do grupo deve preencher o formulário
 
+- Preencher NOME COMPLETO e RA de todos os integrantes
+- Entregar dois documentos Word ou PDF:
+    1. Enunciado do Exercício de estudo de caso
+    2. Solução do exercício contendo MER, DER e SQL de definição das tabelas
